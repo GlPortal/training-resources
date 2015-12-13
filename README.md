@@ -5,7 +5,7 @@
 - Free tutorials for modern Opengl http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/
 
 ## Git
-While not every commit is acceptable don't be afraid to commit anything. We don't mind reviewing your Pull Requests.
+While not every commit is acceptable don't be afraid to commit anything. We don't mind reviewing your Pull Requests. If anyone attacks you personaly for commits you did I assure you he does not speak for the team.
 
 Use the following as guidelines on commit style:
 - [How to write commit messages](http://chris.beams.io/posts/git-commit/)
