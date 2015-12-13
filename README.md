@@ -5,5 +5,8 @@
 - Free tutorials for modern Opengl http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/
 
 ## Git
-- How to write commit messages http://chris.beams.io/posts/git-commit/
-- Atomic commits http://seesparkbox.com/foundry/atomic_commits_with_git
+While not every commit is acceptable don't be afraid to commit anything. We don't mind reviewing your Pull Requests.
+
+Use the following as guidelines on commit style:
+- [How to write commit messages](http://chris.beams.io/posts/git-commit/)
+- [Atomic commits](http://seesparkbox.com/foundry/atomic_commits_with_git)
