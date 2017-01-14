@@ -3,6 +3,7 @@
 ## Development
 - [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer)
 - [Bjarne Stroustrup - The Essence of C++](https://www.youtube.com/watch?v=86xWVb4XIyE)
+- [Greg Law - Give me 15 minutes & I'll change your view of GDB](https://www.youtube.com/watch?v=PorfLSr3DDI)
 
 ## Game Development
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
