@@ -13,6 +13,12 @@
 - [Pixar in a Box tutorial](https://www.khanacademy.org/partner-content/pixar/start/introduction/a/users-guide)
 - [OpenGL renderer example](https://github.com/ssloy/tinyrenderer/wiki)
 
+## Mapping
+- [Best Quake Singleplayer Maps](https://www.youtube.com/watch?v=vn6eQqWZ2Ls&index=1&list=PLjQ9OsIZYzBsp8ssb74Lp0wn4qsOuUiBC)
+
+## Gameplay
+- [Doom Mods](https://www.youtube.com/watch?v=r0Sswjs6v4A&list=PLrQnnXQh0V2e53QZ4yRpsjA8ebLYm89Ps&index=1)
+
 ## Git
 While not every commit is acceptable don't be afraid to commit anything. We don't mind reviewing your Pull Requests. If anyone attacks you personaly for commits you did I assure you he does not speak for the team.
 
