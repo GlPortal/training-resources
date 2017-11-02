@@ -25,3 +25,6 @@ While not every commit is acceptable don't be afraid to commit anything. We don'
 Use the following as guidelines on commit style:
 - [How to write commit messages](http://chris.beams.io/posts/git-commit/)
 - [Atomic commits](http://seesparkbox.com/foundry/atomic_commits_with_git)
+
+## CMake
+- [ExternalProject_Add](https://gist.github.com/greenjava/463c7e65ee472c285047)
