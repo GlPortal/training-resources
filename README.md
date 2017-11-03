@@ -30,11 +30,9 @@ Use the following as guidelines on commit style:
 - [ExternalProject_Add](https://gist.github.com/greenjava/463c7e65ee472c285047)
 
 ## Awesome-list
-- [CPP](https://github.com/fffaraz/awesome-cpp)
-- [Modern CPP](https://github.com/rigtorp/awesome-modern-cpp)
-- [performance optimization resources](https://github.com/fenbf/AwesomePerfCpp)
-- [cmake](https://github.com/onqtam/awesome-cmake)
-- [OpenGL](https://github.com/eug/awesome-opengl)
-- [Vulkan](https://github.com/vinjn/awesome-vulkan)
-- [Game Talks](https://github.com/hzoo/awesome-gametalks)
-- [Games](https://github.com/leereilly/games)
+Awesome list is collected resources for specific subject.
+- [CPP](https://github.com/fffaraz/awesome-cpp) [Modern CPP](https://github.com/rigtorp/awesome-modern-cpp) C/C++ blogs, videos, talks, libraries, build system ...
+- [performance optimization resources](https://github.com/fenbf/AwesomePerfCpp) performance optimization resources.
+- [cmake](https://github.com/onqtam/awesome-cmake) cmake resources.
+- [OpenGL](https://github.com/eug/awesome-opengl) [Vulkan](https://github.com/vinjn/awesome-vulkan) OpenGL and Vulkan resources 
+- [Game Talks](https://github.com/hzoo/awesome-gametalks) [Games](https://github.com/leereilly/games)
