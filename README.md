@@ -20,6 +20,7 @@
 - [Doom Mods](https://www.youtube.com/watch?v=r0Sswjs6v4A&list=PLrQnnXQh0V2e53QZ4yRpsjA8ebLYm89Ps&index=1)
 
 ## Git
+- [Interactive Git Tutorial](https://try.github.io/levels/1/challenges/1)
 While not every commit is acceptable don't be afraid to commit anything. We don't mind reviewing your Pull Requests. If anyone attacks you personaly for commits you did I assure you he does not speak for the team.
 
 Use the following as guidelines on commit style:
