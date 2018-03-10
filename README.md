@@ -5,7 +5,7 @@
 - [Bjarne Stroustrup - The Essence of C++](https://www.youtube.com/watch?v=86xWVb4XIyE)
 - [Greg Law - Give me 15 minutes & I'll change your view of GDB](https://www.youtube.com/watch?v=PorfLSr3DDI)
 - [TheLadders’ Object Calisthenics](https://github.com/TheLadders/object-calisthenics)
-
+- [Subliminal learning. What do games teach us?](https://repositorio.grial.eu/bitstream/grial/944/1/hcii17Subliminal.pdf)
 ## Game Development
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
 - [Designing a Modern Rendering Engine](https://www.cg.tuwien.ac.at/research/publications/2007/bauchinger-2007-mre/bauchinger-2007-mre-Thesis.pdf)
