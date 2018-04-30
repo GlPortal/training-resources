@@ -12,6 +12,7 @@
 - [Free tutorials for modern Opengl](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/)
 - [Pixar in a Box tutorial](https://www.khanacademy.org/partner-content/pixar/start/introduction/a/users-guide)
 - [OpenGL renderer example](https://github.com/ssloy/tinyrenderer/wiki)
+- [Data Oriented Design](https://github.com/dbartolini/data-oriented-design#presentations)
 
 ## Mapping
 - [Best Quake Singleplayer Maps](https://www.youtube.com/watch?v=vn6eQqWZ2Ls&index=1&list=PLjQ9OsIZYzBsp8ssb74Lp0wn4qsOuUiBC)
