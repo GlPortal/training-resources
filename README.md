@@ -14,6 +14,10 @@
 - [OpenGL renderer example](https://github.com/ssloy/tinyrenderer/wiki)
 - [Data Oriented Design](https://github.com/dbartolini/data-oriented-design#presentations)
 
+## Documentation
+- [Offline Docmentation](http://devdocs.io)
+- [OpenGL](http://docs.gl)
+
 ## Mapping
 - [Best Quake Singleplayer Maps](https://www.youtube.com/watch?v=vn6eQqWZ2Ls&index=1&list=PLjQ9OsIZYzBsp8ssb74Lp0wn4qsOuUiBC)
 
